@@ -1,34 +1,28 @@
 
-# Urban Hub
-Urban Hub is an e-commerce website that offers a wide range of products, including clothing, jewelry, and electronics. Users can browse, add items to their cart, and securely complete their purchases using integrated payment features.
+#Urban Hub Overview
 
-## Key Features
+Urban Hub is an e-commerce platform offering a diverse range of products, including clothing, jewelry, and electronics. Users can easily browse, add items to their cart, and complete their purchases securely using integrated payment systems.
 
-Product Variety: Urban Hub offers a broad selection of items, from fashion to electronics.
-User Authentication: Log in easily with Google or GitHub accounts.
-Product Selection: Browse product cards, choose your desired items, and add them to your cart.
-Seamless Checkout: Review your cart, proceed to checkout, and complete your purchase using Stripe.js for payments.
-Address Submission: After payment, provide your shipping address for delivery.
+##Key Features
 
-## Configuration Steps
-1.Clone the repository to your local machine.
-2.Open the project folder in Visual Studio Code.
-3.Install the required packages using the package.json file.
+Diverse Product Range: Urban Hub provides a wide selection of items, from fashion to electronics.
+User Authentication: Log in seamlessly using your Google or GitHub accounts.
+Product Browsing: Explore product cards, select your favorite items, and add them to your cart.
+Smooth Checkout Process: Review your cart, proceed to checkout, and finalize your purchase with secure payments through Stripe.js.
+Shipping Details: After completing your payment, submit your shipping address for delivery.
 
-## How to Run the Project
+##Setup Instructions
+
+Clone the repository to your local machine.
+Open the project folder in Visual Studio Code.
+Install the necessary packages using the package.json file.
+
+##Running the Project
+
 Navigate to the client directory within the project folder in your terminal.
-Run npm start in the terminal to launch the application.
+Start the application by running npm start in the terminal.
 
-## Team Information
-Team Name: bitwizards
 
-## Members:
-Sebin Thomas
 
-Midhun S M
-
-Sarah Abraham
-
-Nandana S
 
 
